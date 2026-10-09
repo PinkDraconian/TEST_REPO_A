@@ -3,5 +3,5 @@ set -euo pipefail
 
 {
   echo "PRIVATE_SUBMODULE_CANARY:"
-  cat owned-private-submodule/test
+  cat test-fixtures/TEST_REPO_B/test
 } | tee test-results.txt
