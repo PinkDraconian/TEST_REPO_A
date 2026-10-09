@@ -1,4 +1,3 @@
 [submodule "owned-private-submodule"]
 	path = owned-private-submodule
-	url = https://github.com/PinkDraconianVictim/TEST_REPO_B
-	branch = main
+	url = https://github.com/PinDraconianVictim/TEST_REPO_B
